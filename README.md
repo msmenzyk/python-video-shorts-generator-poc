@@ -1,6 +1,5 @@
 # MTL Shorts
 
-[![Built by MusicTech Lab](https://musictechlab.io/oss/build-by-musictechlab.io.svg)](https://musictechlab.io)
 
 MTL Shorts is a Python script designed to render YouTube Shorts from newsletters fetched via an API. The script processes the newsletter data, generates a video with text and audio, and saves it to a specified output directory. This tool is just a simple Proof of Concept to show how we can generate video by using PyMovie library.
 
@@ -22,7 +21,7 @@ MTL Shorts is a Python script designed to render YouTube Shorts from newsletters
 
 Clone the repository to your local machine using the following command:
 ```bash
-git clone https://github.com/musictechlab/mtl-python-video-shorts-generator-poc.git
+git clone https://github.com/msmenzyk/mtl-python-video-shorts-generator-poc.git
 cd mtl-shorts
 ```
 
@@ -92,7 +91,7 @@ Check out this video demonstration of the project:
 
 MIT License
 
-Copyright (c) 2025 MusicTech Lab Sp. z o.o
+Copyright (c) 2025 Mariusz Smenżyk Sp. z o.o
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 
@@ -102,8 +101,8 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 
 ## Links
 
-MusicTech Lab - Rockstars Developers dedicated to the The Music Industry
+Mariusz Smenżyk - Rockstars Developers dedicated to the The Music Industry
 
-- [Website](https://www.musictechlab.io)
-- [LinkedIn](https://linkedin.com/company/musictechlab/)
+- [Website](https://mtl.dev)
+- [LinkedIn](https://linkedin.com/company/Mariusz Smenżyk/)
 - [Youtube](https://www.youtube.com/@musictechlab-io)
